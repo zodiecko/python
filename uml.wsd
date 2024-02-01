@@ -1,0 +1,5 @@
+@startuml uml
+
+Bob -> Alice: Hello
+
+@enduml
